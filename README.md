@@ -4,8 +4,7 @@ A beginner's template for nodeJS, expressJS, stylus, jade, and CoffeeScript
 ## Getting started
 - install [foreman](https://github.com/ddollar/foreman)
 - install [node.js 0.10.x](http://nodejs.org/)
-- `npm install`
-- start the server with `make`
+- start the server with `make` (which will run `npm install` and `foreman start -f Procfile-dev`)
 
 ## Quick start
 - Font and styling choices under `stylus/partials/vars`

@@ -1,9 +1,3 @@
-requirejs.config(
-  waitSeconds: 1
-  "baseUrl": "js/"
-  "paths":
-    "jquery": ["//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min", "/libs/jquery-2.0.0.min.js"]
-)
+'use strict'
 
-# Load the main app module to start the app
-requirejs ["jquery"]
+console.log 'Congratulations, you have properly setup the bassment. Happy hacking!'

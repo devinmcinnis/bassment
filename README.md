@@ -1,5 +1,5 @@
 # bassment
-A beginner's template for nodeJS, expressJS, stylus, jade, requireJS, and CoffeeScript
+A beginner's template for nodeJS, expressJS, stylus, jade, and CoffeeScript
 
 ## Getting started
 - install [foreman](https://github.com/ddollar/foreman)
@@ -22,7 +22,6 @@ A beginner's template for nodeJS, expressJS, stylus, jade, requireJS, and Coffee
 - [stylus](http://learnboost.github.com/stylus/)
 - [nib](http://github.com/visionmedia/nib/)
 - [jQuery](http://jquery.com/)
-- [requireJS](http://requirejs.org)
 
 ## Under the bassment
 - Auto-compile CoffeeScript to JS

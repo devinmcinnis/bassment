@@ -1,0 +1,9 @@
+{border-collapse:separate;border-spacing:0;vertical-align:middle;text-align:left;font-weight:normal;vertical-align:middle;}
+article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{margin:0;padding:0;border:0;outline:0;display:block}
+audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
+audio:not([controls]),[hidden]{display:none}
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+body{padding:40px;margin:0;font:20px "Merriweather",Georgia,"Times New Roman",serif}
+a{color:#424242;}
+a:hover{color:#595959}
+#main-container{max-width:48em;margin:0 auto}
